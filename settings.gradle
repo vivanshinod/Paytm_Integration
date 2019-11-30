@@ -1,0 +1,2 @@
+include ':app', ':paypalintegration'
+rootProject.name='Paytm Integration'
